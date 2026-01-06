@@ -12,7 +12,7 @@ You can view my official HyperionDev portfolio here:
 ---
 
 ##  Featured Projects
-- [Django Capstone Project Consolidation Task]([link-to-your-repo](https://github.com/HyperionDev-AI-Engineering-Projects/Capstone-Project-Consolidation))
+-[Django Capstone Project Consolidation Task]([link-to-your-repo](https://github.com/HyperionDev-AI-Engineering-Projects/Capstone-Project-Consolidation))
   Advanced Django application with role‑based CRUD, Docker setup, Sphinx documentation, and 100% test coverage.
   
 -[Django eCommerce Application – Part 1](https://github.com/HyperionDev-AI-Engineering-Projects/Ecommerce_Test)
